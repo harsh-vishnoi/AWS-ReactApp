@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "awsreactappmainb720f66e": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
